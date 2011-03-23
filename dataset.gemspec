@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{dataset}
-  s.version = "1.3.2"
+  s.version = "1.3.2.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Adam Williams"]
@@ -47,7 +47,7 @@ Gem::Specification.new do |s|
      "plugit/descriptor.rb",
      "tasks/dataset.rake"
   ]
-  s.homepage = %q{http://github.com/aiwilliams/dataset}
+  s.homepage = %q{http://github.com/codders/dataset}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib", "tasks"]
   s.rubygems_version = %q{1.3.5}

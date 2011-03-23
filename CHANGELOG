@@ -1,3 +1,7 @@
+*1.3.2.1 [Feature]
+
+* Added support for mysql2 adapter
+
 *1.3.2 [Bugfix]
 
 * Fixed bug where sti finder names were not always generated correctly [aiwilliams]
